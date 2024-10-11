@@ -1,0 +1,115 @@
+{
+  "languages": [
+    {
+      "name": "English",
+      "code": "en"
+    },
+    {
+      "name": "Ukrainian",
+      "code": "uk"
+    }
+  ],
+  "voices": [
+    {
+      "name": "Alice",
+      "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
+      "gender": "female",
+      "language_id": 0
+    },
+    {
+      "name": "Alex",
+      "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
+      "gender": "male",
+      "language_id": 0
+    },
+    {
+      "name": "\u0410\u043b\u0438\u0441\u0430",
+      "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
+      "gender": "female",
+      "language_id": 1
+    },
+    {
+      "name": "\u0410\u043b\u0435\u043a\u0441",
+      "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
+      "gender": "male",
+      "language_id": 1
+    }
+  ],
+  "names": [
+    {
+      "name": "John",
+      "gender": "male",
+      "language_id": 0
+    },
+    {
+      "name": "\u041e\u043b\u0435\u043d\u0430",
+      "gender": "female",
+      "language_id": 1
+    },
+    {
+      "name": "\u0420\u043e\u043c\u0430\u043d",
+      "gender": "male",
+      "language_id": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "support",
+      "language_id": 0
+    },
+    {
+      "name": "\u043fi\u0434\u0442\u0440\u0438\u043c\u043a\u0430",
+      "language_id": 1
+    },
+    {
+      "name": "\u0430\u0444\u0444i\u0440\u043c\u0430\u0446i\u044f",
+      "language_id": 1
+    },
+    {
+      "name": "\u043c\u043e\u0442\u0438\u0432\u0430\u0446i\u044f",
+      "language_id": 1
+    }
+  ],
+  "tts": [
+    {
+      "voice_id": 0,
+      "category_id": 0,
+      "name_id": 0,
+      "language_id": 0,
+      "audio_file": "audio.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 3,
+      "category_id": 1,
+      "name_id": 1,
+      "language_id": 1,
+      "audio_file": "audio.mp3",
+      "symbols": 73
+    },
+    {
+      "voice_id": 2,
+      "category_id": 1,
+      "name_id": null,
+      "language_id": 1,
+      "audio_file": "audio.mp3",
+      "symbols": 70
+    },
+    {
+      "voice_id": 2,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 1,
+      "audio_file": "audio.mp3",
+      "symbols": 80
+    },
+    {
+      "voice_id": 3,
+      "category_id": 3,
+      "name_id": 2,
+      "language_id": 1,
+      "audio_file": "audio.mp3",
+      "symbols": 95
+    }
+  ]
+}
