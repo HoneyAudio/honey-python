@@ -21,30 +21,33 @@ def main():
     # Load or initialize the database
     database_file = 'db.json'
     if not os.path.exists(database_file):
-        # Initialize database with default values
+        # 560
         db = {
             "languages": [
-                {
-                    "name": "English",
-                    "code": "en"
-                }
+                { "name": "🇺🇸 English", "code": "en" },
             ],
             "voices": [
-                {
-                    "name": "Alice",
-                    "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
-                    "gender": "female",
-                    "language_id": 0
-                },
-                {
-                    "name": "Alex",
-                    "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
-                    "gender": "male",
-                    "language_id": 0
-                }
+                { "name": "👩 Female voice", "gender": "female", "language_id": 0 },
+                { "name": "👨 Male voice", "gender": "male", "language_id": 0 },
             ],
-            "names": [],
-            "categories": [],
+            "names": [
+                { "name": "James", "gender": "male", "language_id": 0 },
+                { "name": "Mary", "gender": "female", "language_id": 0 },
+                { "name": "Michael", "gender": "male", "language_id": 0 },
+                { "name": "Jennifer", "gender": "female", "language_id": 0 },
+                { "name": "John", "gender": "male", "language_id": 0 },
+                { "name": "Jessica", "gender": "female", "language_id": 0 },
+            ],
+            "categories": [
+                { "name": "🙏 Support", "language_id": 0 },
+                { "name": "👍 Affirmation", "language_id": 0 },
+                { "name": "🫵 Motivation", "language_id": 0 },
+                { "name": "🎉 Congratulations", "language_id": 0 },
+                { "name": "💪 Encouragement", "language_id": 0 },
+                { "name": "🎓 Education", "language_id": 0 },
+                { "name": "✨ Gratitude", "language_id": 0 },
+                { "name": "🌟 Recognition", "language_id": 0 },
+            ],
             "tts": []
         }
         with open(database_file, 'w') as f:

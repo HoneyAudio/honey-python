@@ -1,0 +1,1586 @@
+[
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a supportive message where James is reassured and comforted, but James is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Mary is reassured and comforted, but Mary is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Michael is reassured and comforted, but Michael is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Jennifer is reassured and comforted, but Jennifer is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a supportive message where John is reassured and comforted, but John is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Jessica is reassured and comforted, but Jessica is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an affirmation where James is praised and encouraged, but James is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Mary is praised and encouraged, but Mary is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Michael is praised and encouraged, but Michael is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Jennifer is praised and encouraged, but Jennifer is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an affirmation where John is praised and encouraged, but John is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Jessica is praised and encouraged, but Jessica is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a motivational message for James, where James is mentioned later in the sentence. Focus on encouragement and belief in James's abilities. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Mary, where Mary is mentioned later in the sentence. Focus on encouragement and belief in Mary's abilities. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Michael, where Michael is mentioned later in the sentence. Focus on encouragement and belief in Michael's abilities. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Jennifer, where Jennifer is mentioned later in the sentence. Focus on encouragement and belief in Jennifer's abilities. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a motivational message for John, where John is mentioned later in the sentence. Focus on encouragement and belief in John's abilities. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Jessica, where Jessica is mentioned later in the sentence. Focus on encouragement and belief in Jessica's abilities. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for James, where James is celebrated and praised in the middle of the sentence. The message should express joy and pride in James's achievement. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Mary, where Mary is celebrated and praised in the middle of the sentence. The message should express joy and pride in Mary's achievement. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Michael, where Michael is celebrated and praised in the middle of the sentence. The message should express joy and pride in Michael's achievement. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Jennifer, where Jennifer is celebrated and praised in the middle of the sentence. The message should express joy and pride in Jennifer's achievement. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for John, where John is celebrated and praised in the middle of the sentence. The message should express joy and pride in John's achievement. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Jessica, where Jessica is celebrated and praised in the middle of the sentence. The message should express joy and pride in Jessica's achievement. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for James, focusing on James's strength and perseverance. Ensure James is not mentioned at the start of the sentence. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Mary, focusing on Mary's strength and perseverance. Ensure Mary is not mentioned at the start of the sentence. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Michael, focusing on Michael's strength and perseverance. Ensure Michael is not mentioned at the start of the sentence. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Jennifer, focusing on Jennifer's strength and perseverance. Ensure Jennifer is not mentioned at the start of the sentence. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for John, focusing on John's strength and perseverance. Ensure John is not mentioned at the start of the sentence. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Jessica, focusing on Jessica's strength and perseverance. Ensure Jessica is not mentioned at the start of the sentence. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for James, focusing on James's progress and learning. Ensure James is mentioned in the middle of the sentence. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Mary, focusing on Mary's progress and learning. Ensure Mary is mentioned in the middle of the sentence. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Michael, focusing on Michael's progress and learning. Ensure Michael is mentioned in the middle of the sentence. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Jennifer, focusing on Jennifer's progress and learning. Ensure Jennifer is mentioned in the middle of the sentence. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for John, focusing on John's progress and learning. Ensure John is mentioned in the middle of the sentence. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Jessica, focusing on Jessica's progress and learning. Ensure Jessica is mentioned in the middle of the sentence. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for James, expressing appreciation for something kind James has done. James should be mentioned in the middle of the sentence. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Mary, expressing appreciation for something kind Mary has done. Mary should be mentioned in the middle of the sentence. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Michael, expressing appreciation for something kind Michael has done. Michael should be mentioned in the middle of the sentence. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Jennifer, expressing appreciation for something kind Jennifer has done. Jennifer should be mentioned in the middle of the sentence. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for John, expressing appreciation for something kind John has done. John should be mentioned in the middle of the sentence. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Jessica, expressing appreciation for something kind Jessica has done. Jessica should be mentioned in the middle of the sentence. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message recognizing James's efforts and accomplishments, where James is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Mary's efforts and accomplishments, where Mary is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Michael's efforts and accomplishments, where Michael is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Jennifer's efforts and accomplishments, where Jennifer is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message recognizing John's efforts and accomplishments, where John is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Jessica's efforts and accomplishments, where Jessica is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a supportive message where James is reassured and comforted, but James is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Mary is reassured and comforted, but Mary is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Michael is reassured and comforted, but Michael is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Jennifer is reassured and comforted, but Jennifer is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a supportive message where John is reassured and comforted, but John is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a supportive message where Jessica is reassured and comforted, but Jessica is not mentioned at the beginning of the sentence. Keep the message soft, calming, and nurturing. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an affirmation where James is praised and encouraged, but James is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Mary is praised and encouraged, but Mary is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Michael is praised and encouraged, but Michael is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Jennifer is praised and encouraged, but Jennifer is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an affirmation where John is praised and encouraged, but John is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an affirmation where Jessica is praised and encouraged, but Jessica is mentioned in the middle of the sentence. Focus on appreciation and positive reinforcement. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a motivational message for James, where James is mentioned later in the sentence. Focus on encouragement and belief in James's abilities. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Mary, where Mary is mentioned later in the sentence. Focus on encouragement and belief in Mary's abilities. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Michael, where Michael is mentioned later in the sentence. Focus on encouragement and belief in Michael's abilities. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Jennifer, where Jennifer is mentioned later in the sentence. Focus on encouragement and belief in Jennifer's abilities. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a motivational message for John, where John is mentioned later in the sentence. Focus on encouragement and belief in John's abilities. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a motivational message for Jessica, where Jessica is mentioned later in the sentence. Focus on encouragement and belief in Jessica's abilities. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for James, where James is celebrated and praised in the middle of the sentence. The message should express joy and pride in James's achievement. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Mary, where Mary is celebrated and praised in the middle of the sentence. The message should express joy and pride in Mary's achievement. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Michael, where Michael is celebrated and praised in the middle of the sentence. The message should express joy and pride in Michael's achievement. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Jennifer, where Jennifer is celebrated and praised in the middle of the sentence. The message should express joy and pride in Jennifer's achievement. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for John, where John is celebrated and praised in the middle of the sentence. The message should express joy and pride in John's achievement. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message for Jessica, where Jessica is celebrated and praised in the middle of the sentence. The message should express joy and pride in Jessica's achievement. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for James, focusing on James's strength and perseverance. Ensure James is not mentioned at the start of the sentence. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Mary, focusing on Mary's strength and perseverance. Ensure Mary is not mentioned at the start of the sentence. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Michael, focusing on Michael's strength and perseverance. Ensure Michael is not mentioned at the start of the sentence. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Jennifer, focusing on Jennifer's strength and perseverance. Ensure Jennifer is not mentioned at the start of the sentence. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for John, focusing on John's strength and perseverance. Ensure John is not mentioned at the start of the sentence. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message for Jessica, focusing on Jessica's strength and perseverance. Ensure Jessica is not mentioned at the start of the sentence. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for James, focusing on James's progress and learning. Ensure James is mentioned in the middle of the sentence. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Mary, focusing on Mary's progress and learning. Ensure Mary is mentioned in the middle of the sentence. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Michael, focusing on Michael's progress and learning. Ensure Michael is mentioned in the middle of the sentence. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Jennifer, focusing on Jennifer's progress and learning. Ensure Jennifer is mentioned in the middle of the sentence. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for John, focusing on John's progress and learning. Ensure John is mentioned in the middle of the sentence. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an educational encouragement message for Jessica, focusing on Jessica's progress and learning. Ensure Jessica is mentioned in the middle of the sentence. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for James, expressing appreciation for something kind James has done. James should be mentioned in the middle of the sentence. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Mary, expressing appreciation for something kind Mary has done. Mary should be mentioned in the middle of the sentence. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Michael, expressing appreciation for something kind Michael has done. Michael should be mentioned in the middle of the sentence. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Jennifer, expressing appreciation for something kind Jennifer has done. Jennifer should be mentioned in the middle of the sentence. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for John, expressing appreciation for something kind John has done. John should be mentioned in the middle of the sentence. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude for Jessica, expressing appreciation for something kind Jessica has done. Jessica should be mentioned in the middle of the sentence. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": 0,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message recognizing James's efforts and accomplishments, where James is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name James in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": 1,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Mary's efforts and accomplishments, where Mary is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Mary in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": 2,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Michael's efforts and accomplishments, where Michael is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Michael in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": 3,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Jennifer's efforts and accomplishments, where Jennifer is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Jennifer in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": 4,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message recognizing John's efforts and accomplishments, where John is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name John in the middle of the message."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": 5,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message recognizing Jessica's efforts and accomplishments, where Jessica is mentioned in the middle of the sentence. Focus on showing appreciation and pride. MUST use the person's name Jessica in the middle of the message."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a supportive message without mentioning gender. Use soothing terms like 'precious one' or 'darling', focusing on reassurance and offering a sense of peace and comfort."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft a calming, supportive message using endearing language like 'little dove' or 'sweetheart'. Emphasize comfort and encouragement without any gender references."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose a gentle message of support, avoiding gendered language. Use tender terms of endearment like 'dearest' or 'beloved' to wrap the listener in warmth and care."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a message that provides emotional support, using comforting, non-gendered terms. Incorporate soft imagery like fluffy clouds or warm sunbeams to evoke a sense of safety and care."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a supportive message that feels like a gentle embrace, addressing the listener without gender references. Use phrases like 'precious heart' or 'dear one' to convey deep care and understanding."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create an affirmation that praises and uplifts the listener, without gender references. Use endearing terms like 'bright star' or 'cherished one' to emphasize their unique value and potential."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose an affirmation that boosts confidence without mentioning gender, using affectionate phrases like 'treasure' or 'dear heart'. Craft a message that's both supportive and empowering."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a message that affirms the listener's strength and capabilities, avoiding gendered language. Use warm, nurturing terms like 'precious soul' or 'beloved' to create a supportive atmosphere."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a positive affirmation that encourages the listener to persist. Avoid gender-specific terms and instead use endearing phrases like 'sweet pea' or 'darling' to convey care and belief in their abilities."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft an uplifting affirmation using tender language, like 'little love' or 'sunshine', to express unwavering support without any gender references."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose a motivational message that inspires the listener to keep moving forward, without gender-specific language. Include encouraging phrases like 'brave heart' or 'shining star'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a motivating message that offers support and encouragement, using terms like 'dear one' or 'precious soul' without referring to the listener's gender."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a motivational message that gently urges the listener to stay strong, avoiding gendered terms. Use warm language and incorporate inspiring imagery like soaring birds or blooming flowers."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft a message to motivate the listener, focusing on their inner strength and potential, without gender references. Use affectionate terms like 'sweetheart' or 'cherished one'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a message that motivates the listener to stay focused and determined, while avoiding any gender-specific references. Include uplifting imagery like a phoenix rising or a river flowing steadily."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose a celebratory message that congratulates the listener on their achievement, without gender references. Use warm, affectionate language like 'shining star' or 'precious gem'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a message that celebrates the listener's success, avoiding gendered terms. Use endearing phrases like 'dear heart' or 'beloved' to express joy and pride."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a message to congratulate the listener on their accomplishment, using non-gendered language and uplifting imagery like 'radiant sun' or 'soaring eagle'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft a celebratory message that expresses pride and happiness in the listener's success, while avoiding gendered terms. Use warm, comforting language like 'treasured one'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message that makes the listener feel deeply appreciated and recognized, without using gender-specific language. Use tender terms like 'little miracle' or 'precious soul'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate an encouraging message that empowers the listener without using gendered terms. Use inspiring imagery like 'mighty oak' or 'resilient wildflower' to convey strength and support."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a message that gently encourages the listener to keep going, avoiding any gendered references. Use soft, non-specific terms like 'brave heart' or 'precious soul'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose a message that encourages the listener, focusing on their inner strength and resilience, while avoiding gender-specific language. Use affectionate imagery like 'shining star' or 'steadfast mountain'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft an empowering message that motivates the listener to stay strong, without using gender-specific language. Use warm, comforting phrases like 'dear one' or 'beloved' to convey encouragement."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write an encouraging message that reassures the listener of their inner power and ability, using affectionate terms like 'sweet soul' and avoiding gendered language."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create an encouraging message that motivates the listener to continue learning, avoiding gender-specific terms. Use inspiring imagery like 'curious explorer' or 'budding scholar'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a message that encourages the listener's educational progress, without referring to their gender. Use nurturing terms like 'bright mind' or 'eager learner'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose an educational encouragement message that supports the listener's growth, avoiding gendered references. Use warm, comforting language to emphasize the joy of discovery and learning."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft a message that encourages the listener to keep expanding their knowledge, avoiding gendered terms. Use affectionate phrases like 'little genius' or 'inquisitive soul' to make the message feel warm and supportive."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message that gently encourages the listener to explore and learn more, using non-gendered terms like 'precious student' or 'beloved scholar'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a message of gratitude that expresses deep appreciation for the listener, avoiding any gender-specific terms. Use affectionate imagery like 'precious gem' or 'radiant soul'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a thank-you message that conveys heartfelt gratitude for the listener, without referring to their gender. Use warm language like 'dear heart' or 'beloved friend'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose a message of gratitude that expresses profound appreciation, using non-gendered terms like 'treasured one' and focusing on the impact of their kindness."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft a thank-you message that shows deep appreciation for the listener's generosity and care, avoiding gendered terms. Use affectionate phrases like 'sweet angel' to convey warmth."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude that makes the listener feel truly valued, without using gendered language. Use tender terms like 'precious soul' or 'cherished one'."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Generate a message that recognizes the listener's efforts, without referring to their gender. Use affectionate language like 'shining star' or 'precious gem' to express admiration."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Create a message that acknowledges the listener's hard work and dedication, avoiding gendered language. Use inspiring imagery like 'mighty oak' or 'soaring eagle' to show appreciation."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Compose a message that recognizes the listener's efforts and accomplishments, without using gender-specific language. Use warm, affectionate terms like 'dear heart' to express pride."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Craft a message that shows recognition for the listener's contributions, avoiding any gendered terms. Use affectionate phrases like 'treasured one' to convey deep appreciation."
+  },
+  {
+    "voice_id": 0,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "K8lgMMdmFr7QoEooafEf",
+    "symbols": 0,
+    "prompt": "Write a message that expresses admiration for the listener's hard work, without referring to gender. Use uplifting language like 'brilliant mind' or 'inspiring soul'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a supportive message without mentioning gender. Use soothing terms like 'precious one' or 'darling', focusing on reassurance and offering a sense of peace and comfort."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft a calming, supportive message using endearing language like 'little dove' or 'sweetheart'. Emphasize comfort and encouragement without any gender references."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose a gentle message of support, avoiding gendered language. Use tender terms of endearment like 'dearest' or 'beloved' to wrap the listener in warmth and care."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a message that provides emotional support, using comforting, non-gendered terms. Incorporate soft imagery like fluffy clouds or warm sunbeams to evoke a sense of safety and care."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 0,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a supportive message that feels like a gentle embrace, addressing the listener without gender references. Use phrases like 'precious heart' or 'dear one' to convey deep care and understanding."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create an affirmation that praises and uplifts the listener, without gender references. Use endearing terms like 'bright star' or 'cherished one' to emphasize their unique value and potential."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose an affirmation that boosts confidence without mentioning gender, using affectionate phrases like 'treasure' or 'dear heart'. Craft a message that's both supportive and empowering."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a message that affirms the listener's strength and capabilities, avoiding gendered language. Use warm, nurturing terms like 'precious soul' or 'beloved' to create a supportive atmosphere."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a positive affirmation that encourages the listener to persist. Avoid gender-specific terms and instead use endearing phrases like 'sweet pea' or 'darling' to convey care and belief in their abilities."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 1,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft an uplifting affirmation using tender language, like 'little love' or 'sunshine', to express unwavering support without any gender references."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose a motivational message that inspires the listener to keep moving forward, without gender-specific language. Include encouraging phrases like 'brave heart' or 'shining star'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a motivating message that offers support and encouragement, using terms like 'dear one' or 'precious soul' without referring to the listener's gender."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a motivational message that gently urges the listener to stay strong, avoiding gendered terms. Use warm language and incorporate inspiring imagery like soaring birds or blooming flowers."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft a message to motivate the listener, focusing on their inner strength and potential, without gender references. Use affectionate terms like 'sweetheart' or 'cherished one'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 2,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a message that motivates the listener to stay focused and determined, while avoiding any gender-specific references. Include uplifting imagery like a phoenix rising or a river flowing steadily."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose a celebratory message that congratulates the listener on their achievement, without gender references. Use warm, affectionate language like 'shining star' or 'precious gem'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a message that celebrates the listener's success, avoiding gendered terms. Use endearing phrases like 'dear heart' or 'beloved' to express joy and pride."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a message to congratulate the listener on their accomplishment, using non-gendered language and uplifting imagery like 'radiant sun' or 'soaring eagle'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft a celebratory message that expresses pride and happiness in the listener's success, while avoiding gendered terms. Use warm, comforting language like 'treasured one'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 3,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a congratulatory message that makes the listener feel deeply appreciated and recognized, without using gender-specific language. Use tender terms like 'little miracle' or 'precious soul'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate an encouraging message that empowers the listener without using gendered terms. Use inspiring imagery like 'mighty oak' or 'resilient wildflower' to convey strength and support."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a message that gently encourages the listener to keep going, avoiding any gendered references. Use soft, non-specific terms like 'brave heart' or 'precious soul'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose a message that encourages the listener, focusing on their inner strength and resilience, while avoiding gender-specific language. Use affectionate imagery like 'shining star' or 'steadfast mountain'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft an empowering message that motivates the listener to stay strong, without using gender-specific language. Use warm, comforting phrases like 'dear one' or 'beloved' to convey encouragement."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 4,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write an encouraging message that reassures the listener of their inner power and ability, using affectionate terms like 'sweet soul' and avoiding gendered language."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create an encouraging message that motivates the listener to continue learning, avoiding gender-specific terms. Use inspiring imagery like 'curious explorer' or 'budding scholar'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a message that encourages the listener's educational progress, without referring to their gender. Use nurturing terms like 'bright mind' or 'eager learner'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose an educational encouragement message that supports the listener's growth, avoiding gendered references. Use warm, comforting language to emphasize the joy of discovery and learning."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft a message that encourages the listener to keep expanding their knowledge, avoiding gendered terms. Use affectionate phrases like 'little genius' or 'inquisitive soul' to make the message feel warm and supportive."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 5,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message that gently encourages the listener to explore and learn more, using non-gendered terms like 'precious student' or 'beloved scholar'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a message of gratitude that expresses deep appreciation for the listener, avoiding any gender-specific terms. Use affectionate imagery like 'precious gem' or 'radiant soul'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a thank-you message that conveys heartfelt gratitude for the listener, without referring to their gender. Use warm language like 'dear heart' or 'beloved friend'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose a message of gratitude that expresses profound appreciation, using non-gendered terms like 'treasured one' and focusing on the impact of their kindness."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft a thank-you message that shows deep appreciation for the listener's generosity and care, avoiding gendered terms. Use affectionate phrases like 'sweet angel' to convey warmth."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 6,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message of gratitude that makes the listener feel truly valued, without using gendered language. Use tender terms like 'precious soul' or 'cherished one'."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Generate a message that recognizes the listener's efforts, without referring to their gender. Use affectionate language like 'shining star' or 'precious gem' to express admiration."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Create a message that acknowledges the listener's hard work and dedication, avoiding gendered language. Use inspiring imagery like 'mighty oak' or 'soaring eagle' to show appreciation."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Compose a message that recognizes the listener's efforts and accomplishments, without using gender-specific language. Use warm, affectionate terms like 'dear heart' to express pride."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Craft a message that shows recognition for the listener's contributions, avoiding any gendered terms. Use affectionate phrases like 'treasured one' to convey deep appreciation."
+  },
+  {
+    "voice_id": 1,
+    "category_id": 7,
+    "name_id": null,
+    "language_id": 0,
+    "audio_file": "UvSWlWKwkwKAshx25ieK",
+    "symbols": 0,
+    "prompt": "Write a message that expresses admiration for the listener's hard work, without referring to gender. Use uplifting language like 'brilliant mind' or 'inspiring soul'."
+  }
+]
